@@ -1,0 +1,6 @@
+---
+plugin: cloud.terraform.terraform_provider
+project_path: "../"
+state_file: ""  # Leave blank to use the default state
+search_child_modules: true
+...
