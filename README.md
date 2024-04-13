@@ -16,7 +16,7 @@ Project | Topics Covered
 
 ## Information
 Every lab uses Hetzner Cloud and the `hcloud` provider. You need to have a Hetzner Cloud account and an API token to run the labs.
-Labs 2 and onward expect an SSH key to already be present in your Hetzner Cloud account. You can create these in the Hetzner Cloud Console for the project or in the [.ssh-key-project.tf](./.ssh-key-project.tf) project.
+Labs 2 and onward expect an SSH key to already be present in your Hetzner Cloud account. You can create these in the Hetzner Cloud Console for the project or in the [.ssh-key-project](./.ssh-key-project) project.
 
 Lab 1 requires these to *not* be set, as Hetzner does not accept duplicate SSH keys. Make sure to create these in between lab 1 and lab 2!
 
